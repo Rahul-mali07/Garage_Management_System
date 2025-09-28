@@ -263,7 +263,7 @@ session_start();
 
     <!-- Footer Section -->
     <div class="footer">
-        <p>&copy; 2025 Apna Garage. All rights reserved.</p>
+        <p>&copy; 2025 Apna sabka Garage. All rights reserved.</p>
     </div>
 
 </body>
